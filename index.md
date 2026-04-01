@@ -32,7 +32,7 @@ Hi! I’m a _computer science major_ at UC San Diego with minors in _design_ and
 - [ ] Do CSE 101 Hw 1
 
 ## External Links:
-[LinkedIn](www.linkedin.com/in/cathlyngoldberg)
+[LinkedIn](http://www.linkedin.com/in/cathlyngoldberg)
 
 ## Section Links:
 [My Name](#cathlyn-goldberg)
