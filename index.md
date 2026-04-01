@@ -9,15 +9,22 @@ Hi! I’m a _computer science major_ at UC San Diego with minors in _design_ and
 
 > Text that is quoted
 
-### My Experience
+## My Experience
+### Companies
   1. The Great Game
-    - full-stack development - SE
-  2. FRC Robotics
-    - made cool robot
-  3. AVID Tutor
-    - Tutored some kids
-  4. 3D Modeler & Woodworker
-    - Made wooden sliders and stuff in blender
+  2. Digisperts Technology
+  3. FRC Robotics
+  4. Sweetwater Union District High School
+  5. A Reason To Survive
+  6. Google x Basta
+
+### Roles
+* Software Engineering Intern
+* Frontend Developer Intern
+* Business Lead & Robotics Technician
+* AVID Tutor
+* 3D Modeler & Woodworker
+* Code2Career Fellowship Participant
 
 ### To-do List
 - [X] Read for CAT 125
