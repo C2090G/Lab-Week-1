@@ -22,7 +22,7 @@ Hi! I’m a _computer science major_ at UC San Diego with minors in _design_ and
 ### To-do List
 - [X] Read for CAT 125
 - [X] Finish Lab 1
-- [] Do CSE 101 Hw 1
+- [ ] Do CSE 101 Hw 1
 
 ## External Links:
 [LinkedIn](www.linkedin.com/in/cathlyngoldberg)
