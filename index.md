@@ -3,6 +3,11 @@
 ## About Me
 Hi! I’m a _computer science major_ at UC San Diego with minors in _design_ and _business_. I bring a **triple-lens perspective**, combining engineering, design, and business thinking to build user-centered solutions. I’m passionate about **bridging creativity and technology** to create tools that make people’s lives easier. Outside of class, I enjoy playing video games, modding my car, and traveling.
 
+My favorite coding language is:
+```
+System.out.print("Java!!");
+```
+
 <picture>
     <img src="screenshots/IMG_6022.JPG">
 </picture>
